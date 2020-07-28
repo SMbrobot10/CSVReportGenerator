@@ -1,0 +1,23 @@
+{
+  "name": "csvgenerator",
+  "version": "1.0.0",
+  "description": "CSV Report Generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMbrobot10/CSVReportGenerator.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Steven Brotherton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMbrobot10/CSVReportGenerator/issues"
+  },
+  "homepage": "https://github.com/SMbrobot10/CSVReportGenerator#readme"
+}
